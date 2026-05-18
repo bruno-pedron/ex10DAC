@@ -1,4 +1,4 @@
-package com.exemplo.produtor;
+package com.example.produtor;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.http.ResponseEntity;
